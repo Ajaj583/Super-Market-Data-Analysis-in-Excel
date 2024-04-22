@@ -6,7 +6,8 @@ Description :
 Super Market Salse Analysis’ It’s aimed to help the store create an annual sales report , analyze customer behavior and boost customer sales . I performed various tasks such as data understanding, data cleaning ,processing ,analysis ,visualization and report creation. 
 
 <p align="center">
-  <img width="700" height="300" src="Graphs/titel.jpg">
+  <![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/392e211b-087c-40a8-ae3a-e33f13314b00)
+ width="700" height="300" src="Graphs/titel.jpg">
 </p>
 
 This project includes steps as follows :
