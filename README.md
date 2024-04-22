@@ -33,7 +33,7 @@ The project also answered important questions such as :-
  -
 1. In my report, I found that March has the highest sales and order numbers, while November has the lowest. Additionally, there is a noticeable decline in sales and order quantities after March.
 <p align="center">
-  <img width="400" height="200" src="Graphs/Sales vs month.png">
+  ![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/42da6847-7107-4c6f-b9cc-2c49a578eb08)
 </p>
 
 2. Women are more likely to purchase (69%) than men.
