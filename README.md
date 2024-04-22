@@ -32,28 +32,28 @@ The project also answered important questions such as :-
   ![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/42da6847-7107-4c6f-b9cc-2c49a578eb08)
 
 2. Women are more likely to purchase (69%) than men.
-<p align="center">
-  <img width="400" height="200" src="Graphs/Men vs Women.png">
-</p>
+
+![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/a4c2035d-47c0-42c1-8f7f-267414a8755b)
+
 
 3. In my dataset, the different order statuses are primarily categorized as:
 - 92.25% of orders are marked as "Delivered".
 - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
 
 4. Top 10 states :
- <p align="center">
-  <img width="400" height="200" src="Graphs/Top state.png">
-</p>
+ 
+ ![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/e28afca9-b307-4a75-93b6-fb7ce45ebec0)
+
 
 5.  The adult age group (30-49 yrs) made the most contributions.
- <p align="center">
-  <img width="400" height="200" src="Graphs/Age group.png">
-</p>
+ 
+ ![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/0cb80f51-ce32-42df-be2e-d31520682362)
+
 
 6. Amazon, Flipkart and Myntra channels were the top contributors.
- <p align="center">
-  <img width="400" height="200" src="Graphs/channel.png">
-</p>
+ 
+ ![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/3f4038d7-94b0-4070-8dbb-11757b7ce02a)
+
 
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 <p align="center">
