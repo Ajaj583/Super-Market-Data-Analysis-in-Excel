@@ -56,9 +56,9 @@ The project also answered important questions such as :-
 
 
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
-<p align="center">
-  <img width="400" height="200" src="Graphs/Catagory.png">
-</p>
+
+![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/2b8612e3-9d6f-46d2-8bae-ddbb84fb6491)
+
 
 Conclusion
 -
@@ -84,6 +84,6 @@ In essence, by focusing our efforts on targeting women aged 30 to 49 in Maharash
 
 ## Authors
 
-@Ajaj583
+https://github.com/Ajaj583
 
 Ajaj - Data Analyst - Ajaj - All work
