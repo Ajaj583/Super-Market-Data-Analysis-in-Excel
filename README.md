@@ -5,10 +5,7 @@ Description :
 
 Super Market Salse Analysis’ It’s aimed to help the store create an annual sales report , analyze customer behavior and boost customer sales . I performed various tasks such as data understanding, data cleaning ,processing ,analysis ,visualization and report creation. 
 
-<p align="center">
   <![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/392e211b-087c-40a8-ae3a-e33f13314b00)
- width="700" height="300" src="Graphs/titel.jpg">
-</p>
 
 This project includes steps as follows :
 -
@@ -32,9 +29,7 @@ The project also answered important questions such as :-
 📈 Based on the report insights ,here are the outcomes of the sales :- 
  -
 1. In my report, I found that March has the highest sales and order numbers, while November has the lowest. Additionally, there is a noticeable decline in sales and order quantities after March.
-<p align="center">
   ![image](https://github.com/Ajaj583/Super-Market-Data-Analysis-in-Excel/assets/158480555/42da6847-7107-4c6f-b9cc-2c49a578eb08)
-</p>
 
 2. Women are more likely to purchase (69%) than men.
 <p align="center">
